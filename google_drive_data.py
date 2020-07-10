@@ -431,7 +431,7 @@ def main():
         print("-----_")
         name="g_image_"
         renameFile(service,items,name)
-        print("=============================="
+        print("==============================")
         #check_duplicate_image(items)
         # createDeviceCSV()
         list_files(items, service)
